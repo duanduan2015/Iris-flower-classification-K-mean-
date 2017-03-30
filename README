@@ -1,0 +1,10 @@
+This is a K-Mean clustring experiment
+
+Data set is from UC Irvine: http://archive.ics.uci.edu/ml/datasets/Iris
+
+This program completes three function:
+1. Apply the K-means clustering algorithm to subdivide these points into three
+clusters
+2. Identify the clustering centers (centroids)
+3. Draw a 2-D Euclidean space diagram to show the final partition results on
+the input dataset.
